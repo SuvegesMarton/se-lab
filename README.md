@@ -3,7 +3,8 @@
 ![Maven build](https://github.com/SuvegesMarton/se-lab/actions/workflows/maven.yml/badge.svg
 )
 
-[![License](https://github.com/SuvegesMarton/se-lab/LICENSE)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 
