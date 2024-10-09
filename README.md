@@ -1,3 +1,9 @@
+
+
+![Maven build](https://github.com/SuvegesMarton/se-lab/actions/workflows/maven-build.yml/badge.svg
+)
+
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
