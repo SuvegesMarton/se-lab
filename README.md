@@ -1,6 +1,6 @@
 
 
-![Maven build](https://github.com/SuvegesMarton/se-lab/actions/workflows/maven-build.yml/badge.svg
+![Maven build](https://github.com/SuvegesMarton/se-lab/actions/workflows/maven.yml/badge.svg
 )
 
 
