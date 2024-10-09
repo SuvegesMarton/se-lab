@@ -3,6 +3,9 @@
 ![Maven build](https://github.com/SuvegesMarton/se-lab/actions/workflows/maven.yml/badge.svg
 )
 
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://github.com/SuvegesMarton/se-lab/LICENSE)
+
+
 
 # SE Spaceship
 
